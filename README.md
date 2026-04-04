@@ -11,7 +11,7 @@
 
 - 🎓 **BBA Graduate** from **Vidyasagar University**
 - 💼 Currently working as a **Data Analytics Intern**
-- 📍 Based in **Jaleshwar, Odisha, India**
+- 📍 Based in **Kolkata, West Bengal, India**
 - 🌱 Currently learning **Python, SQL (PostgreSQL), Power BI & Statistics**
 - 🎯 Goal: Land a full-time role as a **Data Analyst**
 - 📊 Passionate about turning raw data into meaningful insights
@@ -22,11 +22,11 @@
 
 | | |
 |---|---|
-| 📧 **Email** | `your.email@gmail.com` |
+| 📧 **Email** | `palsubhadip304@gmail.com` |
 | 📱 **Phone** | `+91 XXXXXXXXXX` |
-| 📍 **Location** | Jaleshwar, Odisha, India |
-| 💼 **LinkedIn** | [linkedin.com/in/your-username](https://linkedin.com/in/your-username) |
-| 🐙 **GitHub** | [github.com/your-username](https://github.com/your-username) |
+| 📍 **Location** | Kolkata,West Bengal , India |
+| 💼 **LinkedIn** | [linkedin.com/in/your-username](www.linkedin.com/in/subhadip-pal-84962a380) |
+| 🐙 **GitHub** | [github.com/your-username](https://github.com/palsubhadip304-ship-it) |
 
 ---
 
