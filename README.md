@@ -61,7 +61,7 @@
 ### 📊 Sales Data Analysis (Excel)
 > Built a complete 12-month sales dataset for a computer parts business with analysis and charts.
 - Tools: Microsoft Excel, Power Query, Charts
-- [View Project →](#)
+- [View Project →](https://github.com/palsubhadip304-ship-it/POWER-BI-SALES-DASH-BOARD/blob/main/Screenshot%202025-11-07%20123556.png)
 
 ### 🗄️ IMDB Ratings SQL Analysis
 > Analyzed IMDB movie ratings dataset using PostgreSQL with complex queries.
