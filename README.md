@@ -71,7 +71,7 @@
 ### 🌐 Personal Portfolio Website
 > Built a personal portfolio website using HTML & CSS.
 - Tools: HTML, CSS
-- [View Project →](#)
+- [View Project →](https://palsubhadip304-ship-it.github.io/Personal-Portfolio-website-/)
 
 ### 🐍 Browser Snake Game
 > Classic snake game built using HTML, CSS & JavaScript.
